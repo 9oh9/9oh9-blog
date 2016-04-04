@@ -1,0 +1,13 @@
+{
+  "name": "nineohnine blog",
+  "version": "0.0.1",
+  "description": "software engineering blog",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "nineohnine",
+  "license": "ISC",
+  "dependencies": {
+  }
+}

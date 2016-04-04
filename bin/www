@@ -1,0 +1,7 @@
+#!/usr/bin/env nodejs
+var app = require('../app');
+
+app.then(function (ghostServer){
+    ghostServer.start();
+});
+
