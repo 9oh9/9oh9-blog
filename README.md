@@ -1,4 +1,2 @@
-twist
-=====
-
-home of twistoff
+# 9oh9-blog
+Blog for all things 9oh9.
