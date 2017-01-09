@@ -16,8 +16,8 @@ config = {
             options: {
                 service: 'Mailgun',
                 auth: {
-                    user: 'postmaster@twistoff.co',
-                    pass: '868b95b642f7a2999b6dc68207b940fc'
+                    user: 'postmaster@blog.nineohnine.io',
+                    pass: '1780f7315ef5bfe9bf629302dfa2209f'
                 }
             }
         },
